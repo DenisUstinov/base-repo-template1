@@ -12,4 +12,6 @@
 - name: "wontfix_it"
   color: "#000000"
   description: "На это не будет потрачено время"
-  from_name: "wontfix"
+- name: chore
+  color: "#eb6420"
+  description: Miscellaneous tasks
